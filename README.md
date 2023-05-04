@@ -1,6 +1,6 @@
 # Dataset
 
-## OrthoD
+## OrthoD with teeth code
 
 Dataset OrthoD is available at https://pan.baidu.com/s/1SOQ9Itlo8Rm21KXJD7SrhQ?pwd=5iry.
 
